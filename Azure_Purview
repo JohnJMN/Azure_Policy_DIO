@@ -1,0 +1,9 @@
+
+
+*Azure Policy é uma ferramenta que permite criar e gerenciar políticas para garantir que os recursos estejam em conformidade com as normas da empresa. Você pode definir regras específicas e o Azure Policy monitora e corrige qualquer recurso que não esteja em conformidade.
+
+*Azure Locks são úteis para evitar alterações acidentais ou mal-intencionadas nos recursos. Existem dois tipos principais: **ReadOnly**, que impede qualquer modificação, e **CanNotDelete**, que permite todas as operações, exceto a exclusão. Isso ajuda a proteger os recursos críticos.
+
+*Microsoft Purview é uma solução de governança de dados que permite gerenciar quem tem acesso aos dados e monitorar o uso para garantir conformidade com as políticas internas e regulatórias. É uma ferramenta poderosa para manter os dados seguros e bem gerenciados.
+
+Foi uma aula bem completa e agora me sinto muito mais confiante em usar essas ferramentas no Azure.
